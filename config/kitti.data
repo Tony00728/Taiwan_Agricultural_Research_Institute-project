@@ -1,0 +1,6 @@
+classes=5
+train=data/project/train.txt
+valid=data/project/val.txt
+names=data/project.names
+backup=backup/
+eval=kittiv1
