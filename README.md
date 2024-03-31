@@ -3,7 +3,7 @@
 
 Reference papers - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
 
-<img src="./figure/img10011.png" height="480">
+<img src="./atemoya_img/train/00_GH011475_60.jpg" height="480">
 
 
 
