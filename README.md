@@ -26,9 +26,18 @@ Reference papers - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/18
 
 
 ## Training
+創個yaml檔案.data/kitti.yaml，裡面要有訓練集、驗證集、測試集路徑位址，以及打上所有類別例如:第0類修枝期為tree_00、第1類剪枝期為tree_01、第2類開花授粉期為tree_02、第3類結實期為tree_03、第4類套袋期為tree_04
+```
+python train.py
+```
 
+## Detect
+```
+python detect.py
+```
+## Testing
 
-
+[review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics)
 
 ## Citation
 
