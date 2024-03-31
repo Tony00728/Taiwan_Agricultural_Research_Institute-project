@@ -46,17 +46,22 @@ python train.py
 ```
 python detect.py
 ```
+
 ## Testing
 檢測結果跟test原本的Ground truth 進行運算後得到各類AP修枝期為0.731、剪枝期為0.867 、開花授粉期為0.899、結實期為0.839、套袋期為0.721以及整體mAP達到0.8116(81.16%)
+
 [review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics)
 
 
-<details><summary> <b>result</b> </summary>
+<details><summary> <b>Result</b> </summary>
 
 <img src="./result/1.png" height="480">
 <img src="./result/2.png" height="480">
 <img src="./result/3.png" height="480">
 ```
+
+</details>
+
 
 ## Citation
 
